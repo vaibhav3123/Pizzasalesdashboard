@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Dashboard - Power BI  
 
 ## 📌 Overview  
-This Power BI dashboard provides key insights into pizza sales, helping businesses track performance, optimize inventory, and enhance customer satisfaction.  
+This Power BI dashboard provides key insights into **pizza sales data**, helping businesses track revenue, optimize inventory, and enhance customer satisfaction. The dashboard visualizes trends in **sales, order volume, peak hours, and best-selling pizzas** to support data-driven decision-making.  
 
 ## 📊 Key Metrics  
 - **Total Sales:** 8,17,860  
@@ -27,17 +27,22 @@ This Power BI dashboard provides key insights into pizza sales, helping business
 - **XL & XXL contribute minimally**  
 
 ### 🔥 Top 5 Best-Selling Pizzas  
-1️⃣ **The Thai Chicken Pizza** - 43,434 sales  
-2️⃣ **The Barbecue Chicken Pizza** - 42,768 sales  
-3️⃣ **The California Chicken Pizza** - 41,410 sales  
-4️⃣ **The Classic Deluxe Pizza** - 38,181 sales  
-5️⃣ **The Spicy Italian Pizza** - 34,831 sales  
+1. **The Thai Chicken Pizza** - 43,434 sales  
+2. **The Barbecue Chicken Pizza** - 42,768 sales  
+3. **The California Chicken Pizza** - 41,410 sales  
+4. **The Classic Deluxe Pizza** - 38,181 sales  
+5. **The Spicy Italian Pizza** - 34,831 sales  
 
 ### 🍽 Orders by Category  
 - **Classic (29.02%)** leads, followed by **Chicken (24.28%)**, **Veggie (23.89%)**, and **Supreme (22.81%)**.  
 
 ### 📆 Orders by Day  
 - **Friday** sees the highest orders (**3.5K**), followed by **Thursday (3.2K)** and **Wednesday (3K)**.  
+
+## 📂 Project Files  
+- **Power BI (.pbix) File** - Contains the full dashboard  
+- **Dataset (.csv/.xlsx)** - Raw pizza sales data  
+- **Images** - Screenshots of key visualizations  
 
 ## 🛠 Built With  
 - **Power BI** – for data visualization and interactive insights  
