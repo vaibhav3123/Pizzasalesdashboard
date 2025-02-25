@@ -39,11 +39,6 @@ This Power BI dashboard provides key insights into **pizza sales data**, helping
 ### 📆 Orders by Day  
 - **Friday** sees the highest orders (**3.5K**), followed by **Thursday (3.2K)** and **Wednesday (3K)**.  
 
-## 📂 Project Files  
-- **Power BI (.pbix) File** - Contains the full dashboard  
-- **Dataset (.csv/.xlsx)** - Raw pizza sales data  
-- **Images** - Screenshots of key visualizations  
-
 ## 🛠 Built With  
 - **Power BI** – for data visualization and interactive insights  
 
